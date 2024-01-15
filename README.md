@@ -10,7 +10,7 @@ Sinta-se à vontade para explorar meus repositórios e entre em contato para dis
 
 Tecnologias mais utilizadas por mim em meu dia a dia
 
-div style="display: inline_block"><br/>
+<div style="display: inline_block"><br/>
 <img align="center" alt="html15" src ="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="html15" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
 <img align="center" alt="html15" src ="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
