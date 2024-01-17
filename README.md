@@ -24,4 +24,3 @@ ArcGIS Pro e ferramentas ESRI
 ## Entre em Contato
 
 - 📩 [bispo.santos@unesp.br]
-- 📲 +55 (18) 99616-8259
