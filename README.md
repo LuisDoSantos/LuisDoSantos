@@ -2,7 +2,7 @@
 
 Me chamo Luis Felipe B. dos Santos, estudante de bacharelado em Engenharia Cartográfica e de Agrimensura. Apaixonado pela convergência da tecnologia e pela criação de soluções impactantes para tomada de decisões, mantenho uma base sólida em bancos de dados relacionais e sou proficientes em linguagens como Python, Java e SQL.
 
-Com o objetivo de fornecer insights valiosos, tenho experiência em análise de dados e na representação visual por meio de ferramentas de DataViz, bem como em aplicações geoespaciais (GIS). Estou constantemente explorando novas oportunidades de aprendizado e colaborações, visando aprimorar minhas habilidades e contribuir de forma significativa para projetos inovadores.
+Com o objetivo de fornecer insights valiosos, faço análise de dados e na representação visual por meio de ferramentas de DataViz, bem como em aplicações geoespaciais (GIS). Estou constantemente explorando novas oportunidades de aprendizado e colaborações, visando aprimorar minhas habilidades e contribuir de forma significativa para projetos inovadores.
 
 Sinta-se à vontade para explorar meus repositórios e entre em contato para discutir ideias, colaborações ou simplesmente para trocar conhecimentos! 😊
 
